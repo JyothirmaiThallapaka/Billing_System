@@ -38,8 +38,9 @@ int main(void)
 	printf("\t\tWelcome To Electronics Store Billing System\n");
 	printf("\n Please Enter the following details. \n\n");
 	
-	printf("Cashier's Name: \n");
-	scanf("%s",name);
+	//printf("Cashier's Name: \n");
+	//scanf("%s",name);
+	name="Jyothirmai";
 	printf("Customer's Name: \n");
 	scanf("%s",cname);
 	
